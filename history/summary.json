@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apollo.hzgelf.com.ico",
     "slug": "backend-http-apollo-hzgelf-com",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 1099,
-    "timeDay": 1099,
-    "timeWeek": 1099,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 1086,
+    "timeDay": 1086,
+    "timeWeek": 1086,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 133
     }
   },
   {
@@ -30,13 +30,13 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 975,
-    "timeDay": 975,
-    "timeWeek": 975,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 133
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grp-api.haa477.com.ico",
     "slug": "backend-http-grp-api-haa477-com",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 965,
-    "timeDay": 965,
-    "timeWeek": 965,
-    "timeMonth": 965,
-    "timeYear": 965,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 949,
+    "timeDay": 949,
+    "timeWeek": 949,
+    "timeMonth": 949,
+    "timeYear": 949,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 133
     }
   },
   {
@@ -70,13 +70,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 691,
-    "timeDay": 691,
-    "timeWeek": 691,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 133
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/live-api.hzgelf.com.ico",
     "slug": "backend-http-live-api-hzgelf-com",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 1063,
-    "timeDay": 1063,
-    "timeWeek": 1063,
-    "timeMonth": 1063,
-    "timeYear": 1063,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 1048,
+    "timeDay": 1048,
+    "timeWeek": 1048,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-04-23": 129
+      "2026-04-23": 133
     }
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 691,
+    "timeDay": 691,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -128,13 +128,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 625,
-    "timeDay": 625,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 636,
+    "timeDay": 636,
+    "timeWeek": 636,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1030,
-    "timeDay": 1030,
-    "timeWeek": 1030,
-    "timeMonth": 1030,
-    "timeYear": 1030,
+    "time": 1016,
+    "timeDay": 1016,
+    "timeWeek": 1016,
+    "timeMonth": 1016,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   },
   {
@@ -166,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 617,
-    "timeWeek": 617,
-    "timeMonth": 617,
-    "timeYear": 617,
+    "time": 612,
+    "timeDay": 612,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -184,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1311,
-    "timeDay": 1311,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1311,
+    "time": 1278,
+    "timeDay": 1278,
+    "timeWeek": 1278,
+    "timeMonth": 1278,
+    "timeYear": 1278,
     "dailyMinutesDown": {}
   },
   {
@@ -202,13 +202,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 806,
-    "timeDay": 806,
-    "timeWeek": 806,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 770,
+    "timeDay": 770,
+    "timeWeek": 770,
+    "timeMonth": 770,
+    "timeYear": 770,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -222,13 +222,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 391,
+    "timeDay": 391,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -242,11 +242,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 501,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   },
   {
@@ -260,11 +260,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 1007,
-    "timeWeek": 1007,
-    "timeMonth": 1007,
-    "timeYear": 1007,
+    "time": 996,
+    "timeDay": 996,
+    "timeWeek": 996,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {}
   },
   {
@@ -278,13 +278,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 684,
-    "timeDay": 684,
-    "timeWeek": 684,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "time": 714,
+    "timeDay": 714,
+    "timeWeek": 714,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -298,13 +298,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 1129,
-    "timeDay": 1129,
-    "timeWeek": 1129,
-    "timeMonth": 1129,
-    "timeYear": 1129,
+    "time": 1116,
+    "timeDay": 1116,
+    "timeWeek": 1116,
+    "timeMonth": 1116,
+    "timeYear": 1116,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.673ing.com.ico",
     "slug": "media-673ing-com",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 730,
-    "timeDay": 730,
-    "timeWeek": 730,
-    "timeMonth": 730,
-    "timeYear": 730,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 719,
+    "timeDay": 719,
+    "timeWeek": 719,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
     }
   },
   {
@@ -332,26 +332,6 @@
     "url": "tcp-ping://103.29.22.99",
     "icon": "https://icons.duckduckgo.com/ip3/103.29.22.99.ico",
     "slug": "cagayan-ping-103-29-22-99-fccdi",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-04-23": 128
-    }
-  },
-  {
-    "name": "Cagayan_PING_136.239.236.27_CONVERGE",
-    "url": "tcp-ping://136.239.236.27",
-    "icon": "https://icons.duckduckgo.com/ip3/136.239.236.27.ico",
-    "slug": "cagayan-ping-136-239-236-27-converge",
     "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.01%",
@@ -364,7 +344,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 133
+    }
+  },
+  {
+    "name": "Cagayan_PING_136.239.236.27_CONVERGE",
+    "url": "tcp-ping://136.239.236.27",
+    "icon": "https://icons.duckduckgo.com/ip3/136.239.236.27.ico",
+    "slug": "cagayan-ping-136-239-236-27-converge",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-23": 133
     }
   },
   {
@@ -384,7 +384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 132
     }
   },
   {
@@ -404,7 +404,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-23": 128
+      "2026-04-23": 132
     }
   }
 ]
