@@ -1,21 +1,50 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: sabrina # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Backend_HTTP_apollo.hzgelf.com
+    url: https://apollo.hzgelf.com
+  - name: BACKEND_HTTP_apollo2.all5555.com
+    url: https://apollo2.all5555.com
+  - name: Backend_HTTP_grp-api.haa477.com
+    url: https://grp-api.haa477.com
+  - name: Backend_HTTP_live-api.673ing.com
+    url: https://live-api.673ing.com:18088
+  - name: Backend_HTTP_live-api.hzgelf.com
+    url: https://live-api.hzgelf.com:18088
+  - name: Backend_HTTP_prod-slot-api.673ing.com
+    url: https://prod-slot-api.673ing.com:8082
+  - name: Backoffice_HTTP_gameapp.673ing.com
+    url: https://gameapp.673ing.com:12356
+  - name: Backoffice_HTTP_grp-backoffice.haa477.com
+    url: https://grp-backoffice.haa477.com
+  - name: Backoffice_HTTP_hera.all5555.com
+    url: https://hera.all5555.com
+  - name: Backoffice_HTTP_hera.hzgelf.com
+    url: https://hera.hzgelf.com
+  - name: Backoffice_HTTP_media.hzgelf.com
+    url: https://media.hzgelf.com
+  - name: Backoffice_HTTP_media.pwqr820.com
+    url: https://media.pwqr820.com
+  - name: Frontend_HTTP_prod-slot-game.673ing.com
+    url: https://prod-slot-game.673ing.com
+  - name: Frontend_HTTP_grp-portal.haa477.com
+    url: https://grp-portal.haa477.com
+  - name: Frontend_HTTP_live2.673ing.com
+    url: https://live2.673ing.com
+  - name: Frontend_HTTP_live2.hzgelf.com
+    url: https://live2.hzgelf.com
+  - name: media.673ing.com
+    url: https://media.673ing.com
+  - name: Cagayan_PING_103.29.22.99_FCCDI
+    url: tcp-ping://103.29.22.99
+  - name: Cagayan_PING_136.239.236.27_CONVERGE
+    url: tcp-ping://136.239.236.27
+  - name: Cagayan_PING_43.247.19.170_BLACKFIBER
+    url: tcp-ping://43.247.19.170
+  - name: PING_Studio.hzgelf.com
+    url: tcp-ping://studio.hzgelf.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
